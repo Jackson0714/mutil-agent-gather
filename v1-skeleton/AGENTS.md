@@ -74,7 +74,65 @@ raw → analyzed → published
 | **Analyzer** | AI 分析内容，提取摘要、标签、优先级 | `knowledge/raw/` | `knowledge/articles/` |
 | **Organizer** | 去重、关联、更新状态、触发分发 | `knowledge/articles/` | 状态更新 + 分发事件 |
 
-## 7. 红线（绝对禁止）
+## 7. Agent 配置文件
+
+Agent 配置位于 `.opencode/agents/` 目录，使用 YAML 格式定义：
+
+### 7.1 Collector (采集器)
+```yaml
+name: collector
+triggers:
+  - type: schedule
+    cron: "0 */6 * * *"  # 每6小时执行
+  - type: manual
+input:
+  source: [github_trending, hacker_news]
+  filter:
+    keywords: [AI, LLM, Agent, GPT, Claude, LangChain, RAG, embedding]
+output:
+  path: knowledge/raw/{source_type}_{timestamp}.jsonl
+config:
+  github_trending:
+    url: https://github.com/trending
+    language: python
+  hacker_news:
+    url: https://news.ycombinator.com/
+    max_items: 50
+```
+
+### 7.2 Analyzer (分析器)
+```yaml
+name: analyzer
+trigger:
+  event: raw_data_collected
+input:
+  path: knowledge/raw/*.jsonl
+output:
+  path: knowledge/articles/{id}.json
+config:
+  model: gpt-4o-mini
+  prompt_template: (提取 summary, tags, priority, author)
+```
+
+### 7.3 Organizer (整理器)
+```yaml
+name: organizer
+trigger:
+  event: article_analyzed
+input:
+  path: knowledge/articles/*.json
+output:
+  - status_update
+  - distribution_event
+config:
+  deduplication:
+    key: source_url
+  distribution:
+    telegram: { enabled: true, threshold: medium }
+    feishu: { enabled: true, threshold: high }
+```
+
+## 8. 红线（绝对禁止）
 
 1. **禁止修改已发布的 `knowledge/articles/` 条目** — 只可追加，不可覆盖
 2. **禁止在代码中硬编码密钥/Token** — 必须使用环境变量或 secrets 管理

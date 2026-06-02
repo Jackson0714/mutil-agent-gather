@@ -1,0 +1,27 @@
+{
+  "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+  "title": "claude-plugins-official: Anthropic 官方 Claude Code 插件目录",
+  "source_url": "https://github.com/anthropics/claude-plugins-official",
+  "source_type": "github_trending",
+  "summary": "这是 Anthropic 官方维护的 Claude Code 高质量插件目录，收录了经过官方审核和认证的优质插件。开发者可以从中找到经过验证的工具来扩展 Claude Code 的能力，确保插件的质量和安全性。",
+  "tags": ["Claude Code", "插件生态", "官方认证", "AI助手扩展", "工具聚合"],
+  "author": "anthropics",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "medium",
+  "metadata": {
+    "stars": 28442,
+    "forks": 0,
+    "language": "Unknown",
+    "highlights": [
+      "Anthropic 官方维护，质量有保障",
+      "经过审核认证的优质插件合集",
+      "帮助开发者快速找到可靠的扩展工具",
+      "持续更新，生态完善",
+      "官方背书，可信度高"
+    ],
+    "score": 7,
+    "score_reason": "Stars 28442，Anthropic 官方出品，生态建设的一部分。但作为目录性质的项目，创新性相对有限，主要价值在于聚合和背书。"
+  }
+}

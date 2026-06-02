@@ -1,0 +1,27 @@
+{
+  "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+  "title": "heretic: AI 内容审查移除工具",
+  "source_url": "https://github.com/p-e-w/heretic",
+  "source_type": "github_trending",
+  "summary": "heretic 是一款全自动语言模型内容审查移除工具，可以自动检测并移除 AI 生成内容中的审查限制。该项目具有争议性，主要用于研究目的和技术探索。",
+  "tags": ["AI安全", "审查移除", "模型微调", "AI对齐", "研究工具"],
+  "author": "p-e-w",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "low",
+  "metadata": {
+    "stars": 22301,
+    "forks": 0,
+    "language": "Python",
+    "highlights": [
+      "自动检测并移除 AI 审查限制",
+      "全自动操作，简化技术门槛",
+      "主要用于研究目的",
+      "探索 AI 限制的边界",
+      "开源透明，技术可验证"
+    ],
+    "score": 5,
+    "score_reason": "Stars 22301，技术实现有一定创意，但用途具有争议性，涉及 AI 安全边界问题。评分受限，主要面向特定研究场景。"
+  }
+}

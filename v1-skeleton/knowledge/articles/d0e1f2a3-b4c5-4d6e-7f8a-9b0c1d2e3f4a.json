@@ -1,0 +1,27 @@
+{
+  "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+  "title": "ViMax: 多智能体视频生成框架",
+  "source_url": "https://github.com/HKUDS/ViMax",
+  "source_type": "github_trending",
+  "summary": "ViMax 是一款智能视频生成框架，集导演、编剧、制片人、视频生成器于一体。用户只需输入简单的描述，即可自动完成从剧本创作到视频生成的完整流程，实现'一句话生成电影级视频'的体验。",
+  "tags": ["视频生成", "多智能体", "AI导演", "文生视频", "AIGC"],
+  "author": "HKUDS",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "high",
+  "metadata": {
+    "stars": 8093,
+    "forks": 0,
+    "language": "Python",
+    "highlights": [
+      "All-in-One 视频生成方案（导演+编剧+制片+生成）",
+      "一句话生成完整视频",
+      "多智能体协作架构",
+      "支持多种视频风格和场景",
+      "港大研究团队开发，学术背景强"
+    ],
+    "score": 8,
+    "score_reason": "Stars 8093（增长中），创新性的多智能体视频生成架构，想法大胆（一部电影用一个prompt），学术背景加分。虽然目前 star 数相对较低，但潜力大。"
+  }
+}

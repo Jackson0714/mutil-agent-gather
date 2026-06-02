@@ -1,0 +1,27 @@
+{
+  "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+  "title": "Understand-Anything: 代码转交互式知识图谱",
+  "source_url": "https://github.com/Lum1104/Understand-Anything",
+  "source_type": "github_trending",
+  "summary": "Understand-Anything 将任意代码转换为可交互的知识图谱，用户可以通过图形界面探索、搜索和提问代码库。该项目支持 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等主流 AI 编码助手，通过可视化的方式帮助开发者理解复杂代码结构，提升代码审查和学习效率。",
+  "tags": ["代码可视化", "知识图谱", "AI编程辅助", "代码理解", "开发者工具"],
+  "author": "Lum1104",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "high",
+  "metadata": {
+    "stars": 42951,
+    "forks": 0,
+    "language": "Python",
+    "highlights": [
+      "代码转交互式知识图谱的创新方案",
+      "兼容多种主流 AI 编码助手",
+      "支持代码探索、搜索、问答功能",
+      "帮助快速理解陌生代码库",
+      "提升代码审查和学习效率"
+    ],
+    "score": 8,
+    "score_reason": "Stars 42951，创意独特（代码可视化），直击开发者痛点（理解复杂代码），兼容性强，应用场景明确。"
+  }
+}

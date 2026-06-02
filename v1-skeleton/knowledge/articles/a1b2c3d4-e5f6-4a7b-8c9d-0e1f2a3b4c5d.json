@@ -1,0 +1,27 @@
+{
+  "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+  "title": "MoneyPrinterTurbo: AI 一键生成高清短视频工具",
+  "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "source_type": "github_trending",
+  "summary": "MoneyPrinterTurbo 是一款利用 AI 大模型实现一键生成高清短视频的工具。用户只需提供创意文案或主题，即可自动生成包含配音、字幕、画面素材的完整短视频。该项目整合了 TTS 语音合成、字幕生成、视频剪辑等能力，大幅降低了短视频内容创作的门槛。对于需要批量生产内容的营销人员、自媒体创作者而言，是一款高效的自动化生产工具。",
+  "tags": ["AI视频生成", "短视频创作", "自动化工具", "内容生产", "TTS"],
+  "author": "harry0703",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "high",
+  "metadata": {
+    "stars": 66651,
+    "forks": 0,
+    "language": "Python",
+    "highlights": [
+      "一键生成完整短视频：从文案到成片全自动处理",
+      "集成 TTS 语音合成与字幕自动生成",
+      "支持多种 AI 模型接入（GPT、Claude 等）",
+      "高清视频输出，适合社交媒体平台",
+      "开源可自部署，保护内容隐私"
+    ],
+    "score": 8,
+    "score_reason": "Stars 66651 是Trending榜首，刚需明确（短视频生产），技术实现成熟，解决了内容创作者的实际痛点。极高的实用价值和广泛的用户基础。"
+  }
+}

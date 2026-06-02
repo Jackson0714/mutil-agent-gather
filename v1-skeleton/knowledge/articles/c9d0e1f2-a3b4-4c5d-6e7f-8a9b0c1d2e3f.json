@@ -1,0 +1,27 @@
+{
+  "id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+  "title": "knowledge-work-plugins: Anthropic 知识工作者插件库",
+  "source_url": "https://github.com/anthropics/knowledge-work-plugins",
+  "source_type": "github_trending",
+  "summary": "knowledge-work-plugins 是 Anthropic 开源的知识工作者插件库，为 Claude Cowork 提供支持。该项目主要面向需要处理大量信息、进行复杂思考的知识工作者群体。",
+  "tags": ["知识管理", "AI助手", "插件生态", "生产力工具", "Claude"],
+  "author": "anthropics",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "medium",
+  "metadata": {
+    "stars": 17772,
+    "forks": 0,
+    "language": "Unknown",
+    "highlights": [
+      "Anthropic 官方开源项目",
+      "面向知识工作者的插件生态",
+      "提升信息处理和思考效率",
+      "支持 Claude Cowork 场景",
+      "开源可自定义扩展"
+    ],
+    "score": 7,
+    "score_reason": "Stars 17772，官方背景，生态布局明确。但作为插件集合，创新性和独立价值取决于插件质量。"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+  "title": "codegraph: 本地化代码知识图谱系统",
+  "source_url": "https://github.com/colbymchenry/codegraph",
+  "source_type": "github_trending",
+  "summary": "codegraph 是一个本地化的代码知识图谱系统，专为 Claude Code、Codex、Gemini、Cursor、OpenCode 等 AI 编码助手设计。通过预索引技术，大幅减少 AI 编码时的 token 消耗和工具调用次数，实现 100% 本地部署，数据完全私有。",
+  "tags": ["代码知识图谱", "本地部署", "AI编程", "token优化", "数据隐私"],
+  "author": "colbymchenry",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "high",
+  "metadata": {
+    "stars": 31884,
+    "forks": 0,
+    "language": "Python",
+    "highlights": [
+      "预索引代码知识图谱，降低 AI 调用成本",
+      "大幅减少 token 消耗和工具调用次数",
+      "100% 本地部署，数据完全私有",
+      "支持多种主流 AI 编码助手",
+      "提升 AI 编程效率和响应速度"
+    ],
+    "score": 8,
+    "score_reason": "Stars 31884，定位精准（解决 AI 编程中的 token 成本和数据隐私问题），本地化方案有差异化优势，开发者刚需。"
+  }
+}

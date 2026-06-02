@@ -1,0 +1,27 @@
+{
+  "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+  "title": "AI Engineering From Scratch: 从零学习 AI 工程完整教程",
+  "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "source_type": "github_trending",
+  "summary": "这是一个从零开始学习 AI 工程的完整教程项目，涵盖理论学习、代码实践、项目部署的全流程。适合想转型 AI 领域的开发者，通过循序渐进的方式掌握 AI 工程技能。",
+  "tags": ["AI工程", "学习教程", "开发者教育", "从零开始", "实战项目"],
+  "author": "rohitg00",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "medium",
+  "metadata": {
+    "stars": 23930,
+    "forks": 3884,
+    "language": "Unknown",
+    "highlights": [
+      "从零开始的 AI 工程学习路径",
+      "理论+实践+部署的完整闭环",
+      "循序渐进的学习曲线",
+      "适合开发者转型入门",
+      "内容全面，涵盖多个技术栈"
+    ],
+    "score": 7,
+    "score_reason": "Stars 23930，Forks 3884（高fork率，说明受欢迎），学习资源刚需。但作为教程项目，创新性有限，主要价值在于内容质量和学习曲线设计。"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+  "title": "Taste-Skill: 赋予 AI 更好的品味",
+  "source_url": "https://github.com/Leonxlnx/taste-skill",
+  "source_type": "github_trending",
+  "summary": "Taste-Skill 致力于给 AI 赋能'好品味'，通过特定的提示词和技术手段，阻止 AI 生成平庸、通用、千篇一律的内容。该项目提供了一套可复用的技能配置，帮助 AI 输出更具创意和个性化的结果。",
+  "tags": ["AI质量优化", "提示词工程", "内容创新", "生成对抗", "AI品味"],
+  "author": "Leonxlnx",
+  "published_at": "2026-05-29T00:00:00Z",
+  "collected_at": "2026-05-29T10:35:00+08:00",
+  "status": "published",
+  "priority": "medium",
+  "metadata": {
+    "stars": 26589,
+    "forks": 0,
+    "language": "Unknown",
+    "highlights": [
+      "提升 AI 输出质量，避免同质化内容",
+      "通过提示词工程改善 AI 生成效果",
+      "可复用的技能配置，易于集成",
+      "解决 AI 生成内容'塑料感'的问题",
+      "适用于多种 AI 模型和应用场景"
+    ],
+    "score": 7,
+    "score_reason": "Stars 26589，概念新颖，切入点独特（解决 AI 内容同质化问题），实用价值明显。但技术门槛不高，易被复制。"
+  }
+}

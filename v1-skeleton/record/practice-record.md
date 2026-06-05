@@ -29,3 +29,7 @@
 **
 
 ![image-20260602112415058](http://cdn.passjava.cn/uPic/image-202606021124150589Q6100.png)
+
+安装 to-prd skill
+
+![](http://cdn.passjava.cn/uPic/image-20260603102216831YwMJKF.png)

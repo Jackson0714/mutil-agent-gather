@@ -1,0 +1,63 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-03T12:00:00Z",
+  "items": [
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "ECC 是一个 Agent 性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等 Agent 提供技能、本能、记忆、安全和研究驱动的开发能力。值得关注是因为它能显著提升 AI Agent 的任务完成效率和稳定性。",
+      "stars": 204222,
+      "language": "JavaScript",
+      "topics": ["agent", "claude-code", "codex", "opencode", "cursor"]
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "Markitdown 是微软开源的文档转换工具，可将各类文件和 Office 文档转换为 Markdown 格式。值得关注是因为它解决了 AI 处理文档时的格式兼容问题，让 LLM 能更好地理解和处理文档内容。",
+      "stars": 141429,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "summary": "Headroom 是一个 LLM token 压缩工具，可减少 60-95% 的 token 使用量而保持答案质量。值得关注是因为它能大幅降低 LLM 的推理成本，同时支持 Library、代理和 MCP server 多种部署方式。",
+      "stars": 6888,
+      "language": "Python",
+      "topics": ["RAG", "LLM", "MCP"]
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "summary": "Hermes WebUI 是 Hermes Agent 的网页和手机端界面，让你可以通过浏览器或手机远程控制 AI Agent。值得关注是因为它让 AI Agent 的使用变得更加便捷，无需命令行即可操作。",
+      "stars": 12646,
+      "language": "Python",
+      "topics": ["agent"]
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "summary": "这是一个生产级 Agentic RAG 课程，教授如何构建企业级的检索增强生成系统。值得关注是因为它提供了从理论到实践的完整路径，帮助开发者构建可靠的 RAG 应用。",
+      "stars": 6443,
+      "language": "Python",
+      "topics": ["agentic-rag", "rag"]
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "summary": "Supermemory 是 AI 时代的记忆引擎，提供极速、可扩展的记忆 API。值得关注是因为它为 AI Agent 提供了持久化记忆能力，解决了 LLM 上下文窗口限制的问题。",
+      "stars": 24736,
+      "language": "TypeScript",
+      "topics": ["ai", "memory"]
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "summary": "Open-LLM-VTuber 让你可以用语音与任何 LLM 交互，支持语音打断、手势控制和 Live2D 虚拟形象。值得关注是因为它将 LLM 从文本交互升级为更自然的语音对话体验。",
+      "stars": 8474,
+      "language": "Python",
+      "topics": ["LLM", "voice", "Live2D"]
+    }
+  ]
+}
